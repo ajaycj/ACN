@@ -1,4 +1,4 @@
-########## ASSIGNMENT 1 - WEB PROXY IMPLMENTATION#########
+##########  WEB PROXY IMPLMENTATION #########
 
 SERVER
   
